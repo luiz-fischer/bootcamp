@@ -3,7 +3,6 @@
  
 
 ## I'm Luiz Otávio Fischer!
-
  
 
 :computer: I'm Front-End Developer!
