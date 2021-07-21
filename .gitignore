@@ -8,3 +8,6 @@
 /catalogo-jogos/ExemploApiCatalogoJogos/obj
 /catalogo-jogos/.gitattributes
 /catalogo-jogos/.gitignore
+/catalogo-filmes/.vscode
+/catalogo-filmes/bin
+/catalogo-filmes/obj
