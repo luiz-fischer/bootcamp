@@ -1,1 +1,10 @@
 /desafios-bootcamps-dio/assets
+/desafios-bootcamps/.gitignore
+/desafios-bootcamps/assets
+/catalogo-jogos/ExemploApiCatalogoJogos/bin
+/catalogo-jogos/ExemploApiCatalogoJogos/bin/Debug/net5.0/ref
+/catalogo-jogos/ExemploApiCatalogoJogos/bin/Debug/net5.0/runtimes
+/catalogo-jogos/ExemploApiCatalogoJogos/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/catalogo-jogos/ExemploApiCatalogoJogos/obj
+/catalogo-jogos/.gitattributes
+/catalogo-jogos/.gitignore
